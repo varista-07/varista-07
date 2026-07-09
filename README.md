@@ -91,48 +91,7 @@ A modern student networking platform built using **React** with features like:
 - Learning Hub
 - Mentorship
 - Responsive UI
-
----
-
-# 💡 Developer Card
-
-```javascript
-const varista = {
-  name: "Varista Gupta",
-
-  education: "B.Tech CSE (AI & ML)",
-
-  role: "AI & ML Enthusiast | Frontend Developer",
-
-  languages: [
-    "Python",
-    "Java",
-    "JavaScript"
-  ],
-
-  frontend: [
-    "React",
-    "HTML",
-    "CSS",
-    "Tailwind CSS"
-  ],
-
-  ai_ml: [
-    "Machine Learning",
-    "Scikit-Learn",
-    "Responsible AI"
-  ],
-
-  interests: [
-    "Artificial Intelligence",
-    "Full-Stack Development",
-    "UI/UX Design",
-    "Open Source"
-  ],
-
-  motto: "Learn • Build • Innovate 🚀"
-};
-```
+- Landing Page
 
 ---
 
@@ -159,9 +118,5 @@ const varista = {
 <div align="center">
 
 ## ⭐ Thanks for Visiting!
-
-### *"Building intelligent, impactful, and responsible technology."*
-
-If you like my work, consider ⭐ starring my repositories.
 
 </div>
