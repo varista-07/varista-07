@@ -2,13 +2,9 @@
 
 # 👋 Hi, I'm Varista Gupta
 
-### 🚀 AI & ML Enthusiast • Full-Stack Developer • Frontend Engineer
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Frontend+Engineer;Building+Technology+for+Good;Always+Learning+Something+New+🚀" />
+### 🚀 AI & ML Enthusiast • Full-Stack Developer 
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=varista-07&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
