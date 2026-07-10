@@ -82,17 +82,6 @@
 
 AI-powered fairness analysis platform for detecting, explaining, and visualizing bias in machine learning datasets to promote transparent and responsible AI.
 
-### 🌐 BioPay Student Network
-
-A modern student networking platform built using **React** with features like:
-
-- Community Module
-- Team Finder
-- Learning Hub
-- Mentorship
-- Responsive UI
-- Landing Page
-
 ---
 
 # 🌐 Connect With Me
